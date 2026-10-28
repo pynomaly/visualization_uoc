@@ -4,7 +4,7 @@
 
 **Descripción**: El mapa de fosas comunes en Cataluña geolocaliza las fosas y restos óseos hallados en superficie. Cada punto tiene asociada una ficha descriptiva con información sobre sus características y su estado de conservación y dignificación.
 
-**Visualización:** [Acceso a gráfico interactivo]((https://www.datawrapper.de/_/SQ43u/))
+**Visualización:** [Acceso a gráfico interactivo](https://www.datawrapper.de/_/SQ43u/)
 
 ![Vista del gráfico](plots/fosses_comunes_a_catalunya.png)
 
@@ -13,7 +13,7 @@
 - Data Visualization Catalogue: https://datavizcatalogue.com/methods/dot_map.html
 
 
-## Definición general de la técnica: nombre, origen, descripción, funcionamiento y ejemplos típicos de aplicación
+## Definición general de la técnica
 
 El Dot Density Map (Mapa de densidad de puntos) tiene su origen en el siglo XIX. El ejemplo más célebre es el mapa del Dr. John Snow (1854), que cartografió casos de cólera en Londres para identificar que el origen del brote estaba en una fuente de agua contaminada.
 

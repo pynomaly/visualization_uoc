@@ -10,7 +10,7 @@ Vista estática del gráfico:
 ![Vista estática del gráfico](plots/rose_chart.png)
 
 
-## Definición general de la técnica: nombre, origen, descripción, funcionamiento y ejemplos típicos de aplicación
+## Definición general de la técnica
 
 El Rose Chart, Nightingale Rose Chart o Polar Area Chart, recibe su nombre de Florence Nightingale, que lo usó para mostrar las muertes de soldados en la guerra de Crimea.
 

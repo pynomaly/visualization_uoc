@@ -9,7 +9,7 @@
 ![Vista estática del gráfico](plots/dendrogram.png)
 
 
-## Definición general de la técnica: nombre, origen, descripción, funcionamiento y ejemplos típicos de aplicación
+## Definición general de la técnica
 
 El dendrograma es un diagrama en árbol que muestra cómo se organizan elementos de forma jerárquica. Un nodo raíz da origen a varios nodos conectados por ramas, y los nodos finales se llaman hojas.
 
