@@ -6,7 +6,7 @@
 
 **Visualización**
 
-![Vista estática del gráfico](plots/dendrogram.svg)
+![Vista estática del gráfico](plots/dendrogram.png)
 
 
 ## Definición general de la técnica: nombre, origen, descripción, funcionamiento y ejemplos típicos de aplicación

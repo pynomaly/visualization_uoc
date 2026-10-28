@@ -11,7 +11,7 @@ Ejercicio de visualización de datos realizado a partir de conjuntos de datos ab
 
 ## [GRUPO II - Técnicas habituales y específicas: Linear dendrogram](grupo2.md)
 
-![Vista estática del gráfico](plots/dendrogram.svg)
+![Vista estática del gráfico](plots/dendrogram.png)
 
 
 ## [GRUPO III - Técnicas menos habituales o más específicas: Rose Chart](grupo3.md)
