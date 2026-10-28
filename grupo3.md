@@ -6,16 +6,16 @@
 
 **Visualización**:
 
-[Visualización interactiva](plots/rose_chart.html)
+[![Vista estática del gráfico](plots/rose_chart.png)](https://pynomaly.github.io/visualization_uoc/plots/rose_chart.html)
 
-![Vista estática del gráfico](plots/rose_chart.png)
+[Visualización interactiva](https://pynomaly.github.io/visualization_uoc/)
 
 
 ## Definición general de la técnica: nombre, origen, descripción, funcionamiento y ejemplos típicos de aplicación
 
 El Rose Chart, Nightingale Rose Chart o Polar Area Chart, recibe su nombre de Florence Nightingale, que lo usó para mostrar las muertes de soldados en la guerra de Crimea.
 
-Se construye en coordenadas polares: cada categoría ocupa un sector del mismo ángulo, y la distancia al centro representa el valor. 
+Se construye en coordenadas polares: cada categoría ocupa un sector del mismo ángulo y la distancia al centro representa el valor. 
 
 Fuentes:
 https://datavizcatalogue.com/methods/nightingale_rose_chart.html
