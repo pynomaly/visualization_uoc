@@ -4,7 +4,7 @@
 
 **Descripción**: Datos de las llamadas que se reciben en el teléfono 900 900 120 de atención contra la violencia machista, desde 2013 al 21 de octubre de 2026.
 
-**Visualización**: [Enlace a visualización interactiva](https://pynomaly.github.io/visualization_uoc/)
+**Visualización**: [Enlace a visualización interactiva](https://pynomaly.github.io/visualization_uoc/plots/rose_chart.html)
 
 Vista estática del gráfico:
 ![Vista estática del gráfico](plots/rose_chart.png)
