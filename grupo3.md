@@ -4,11 +4,10 @@
 
 **Descripción**: Datos de las llamadas que se reciben en el teléfono 900 900 120 de atención contra la violencia machista, desde 2013 al 21 de octubre de 2026.
 
-**Visualización**:
+**Visualización**: [Enlace a visualización interactiva](https://pynomaly.github.io/visualization_uoc/)
 
-[![Vista estática del gráfico](plots/rose_chart.png)](https://pynomaly.github.io/visualization_uoc/plots/rose_chart.html)
-
-[Visualización interactiva](https://pynomaly.github.io/visualization_uoc/)
+Vista estática del gráfico:
+![Vista estática del gráfico](plots/rose_chart.png)
 
 
 ## Definición general de la técnica: nombre, origen, descripción, funcionamiento y ejemplos típicos de aplicación
@@ -17,9 +16,11 @@ El Rose Chart, Nightingale Rose Chart o Polar Area Chart, recibe su nombre de Fl
 
 Se construye en coordenadas polares: cada categoría ocupa un sector del mismo ángulo y la distancia al centro representa el valor. 
 
-Fuentes:
-https://datavizcatalogue.com/methods/nightingale_rose_chart.html
-https://datavizproject.com/data-type/polar-area-chart/
+Ejemplos típicos de aplicación son la visualización de datos meteorológicos por meses, tráfico web por hora del día, o ventas por trimestre.
+
+**Fuentes**:
+- https://datavizcatalogue.com/methods/nightingale_rose_chart.html
+- https://datavizproject.com/data-type/polar-area-chart/
 
 ## Tipo y estructura de datos
 
@@ -41,4 +42,6 @@ El diagrama original de Florence Nightingale tenía esto en cuenta y el área de
 
 Plotly no incluye un método específico para ello, así que hay que preparar los datos con pandas previamente (usando `np.sqrt()`).
 
-Los colores se basan en el violeta, característico del tema, y se complementan con el verde, para distinguir a los profesionales sociosanitarios.
+Los colores se basan en el violeta, característico del tema, y se complementan con el verde, para distinguir a los profesionales sociosanitarios del resto de segmentos, por su particularidad.
+
+La audiencia objetivo son profesionales del ámbito social y público general interesado en el fenómeno.

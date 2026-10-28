@@ -4,9 +4,14 @@
 
 **Descripción**: El mapa de fosas comunes en Cataluña geolocaliza las fosas y restos óseos hallados en superficie. Cada punto tiene asociada una ficha descriptiva con información sobre sus características y su estado de conservación y dignificación.
 
-**Visualización**
+**Visualización:** [Acceso a gráfico interactivo]((https://www.datawrapper.de/_/SQ43u/))
 
-[![Vista del gráfico](plots/fosses_comunes_a_catalunya.png)](https://www.datawrapper.de/_/SQ43u/)
+![Vista del gráfico](plots/fosses_comunes_a_catalunya.png)
+
+**Fuentes**:
+- Data Viz Project: https://datavizproject.com/data-type/dot-map/
+- Data Visualization Catalogue: https://datavizcatalogue.com/methods/dot_map.html
+
 
 ## Definición general de la técnica: nombre, origen, descripción, funcionamiento y ejemplos típicos de aplicación
 
