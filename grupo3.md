@@ -6,9 +6,9 @@
 
 **Visualización**:
 
-[Visualización interactiva](plots/rose_chart_linea_900900120.html)
+[Visualización interactiva](plots/rose_chart.html)
 
-![Vista estática del gráfico](plots/llamadas-a-la-línea-contra-la-violencia.png)
+![Vista estática del gráfico](plots/rose_chart.png)
 
 
 ## Definición general de la técnica: nombre, origen, descripción, funcionamiento y ejemplos típicos de aplicación
