@@ -2,7 +2,7 @@
 
 **Fuente de los datos**: https://datos.madrid.es/dataset/795391-0-organigrama-del-ayuntamiento-de-madrid-y-sus-organismos-autonomos
 
-**Descripción**: Dataset del organigrama de la ayuntamiento de Madrid
+**Descripción**: Dataset del organigrama del ayuntamiento de Madrid
 
 **Visualización**
 
